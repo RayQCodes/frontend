@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hr.gmu.edu/wp-content/uploads/2020/01/Mason-Logo.png" alt="George Mason University" width="220">
+  <img src="masonlogo" alt="George Mason University" width="220">
 </p>
 
 # Invisible CAPTCHA — Frontend
