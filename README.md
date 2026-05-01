@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="masonlogo" alt="George Mason University" width="220">
+  <img src="gmulogo" alt="George Mason University" width="220">
 </p>
 
 # Invisible CAPTCHA — Frontend
